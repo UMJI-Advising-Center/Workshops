@@ -3,8 +3,6 @@ Archives for experience-sharing workshops held by Advising Center.
 
 
 
-[TOC]
-
 ---
 
 #### 2020/07/26 研究生申请&生涯发展经验分享会 | For ECEer
