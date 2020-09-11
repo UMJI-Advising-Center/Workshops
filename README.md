@@ -2,6 +2,12 @@
 Archives for experience-sharing workshops held by Advising Center.
 
 
+---
+
+#### 2020/09/09 TA Workshop for Freshman - 2020 Fall
+
++ [推送链接](https://mp.weixin.qq.com/s/C7A4CXO8CRYgyAuEAYWytg)
++ [资料存档](https://jbox.sjtu.edu.cn/l/SHwJr8)
 
 ---
 
