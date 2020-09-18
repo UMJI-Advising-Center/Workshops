@@ -6,7 +6,7 @@ Archives for experience-sharing workshops held by Advising Center.
 
 #### 2020/09/18 ElitePath x AC - Landing an Internship & Career Path Orientation
 
-+ [推送链接](https://mp.weixin.qq.com/s?__biz=MzU1Mzk2MDE0Ng==&tempkey=MTA3OV80aTlTSkZrNW13d0tQOTB5Y25SVlpQZTlBaGdTYTlVR2h4b1Y2TWpOejNYQjFCV3RuSFFTa1BhSmNwd0JzM1dOTWtucDcwT3Mya0JwM25sT3RqN1hlZTNjTzJibDlaR1RldEhnMGdENndFSk5mRFZqd1ZtNUU2bGplYjk1NWc0UzRoXzdBWkJVb2M0S0w5TlhRcUhzdmhvN21nQXVIa1QwbHZGQW9Rfn4%3D&chksm=7beb95d84c9c1ccef85a3ab66622178c43af993855a5df1a9f20f4848a96ac64a223636ddc49#rd)
++ [推送链接](https://mp.weixin.qq.com/s?__biz=MzU1Mzk2MDE0Ng==&mid=2247484011&idx=1&sn=86aa6767fec38307d97f6b4f482c02f0&chksm=fbeb95d6cc9c1cc062f146256150ba8d985b445819acc1c592ab14228c9d76f5f06e9d20025c&token=1057602139&lang=zh_CN#rd)
 + [资料存档](https://jbox.sjtu.edu.cn/l/FoiVQ6)
 
 ---
