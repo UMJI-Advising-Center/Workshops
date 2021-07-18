@@ -1,5 +1,6 @@
 # Workshops
 Archives for experience-sharing workshops held by Advising Center.
+**Reminder: to access jbox link, please turn on SJTU VPN.**
 
 
 ---
