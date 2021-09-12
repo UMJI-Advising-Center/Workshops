@@ -2,6 +2,58 @@
 Archives for experience-sharing workshops held by Advising Center.
 **Reminder: to access jbox link, please turn on SJTU VPN.**
 
+---
+
+#### 2021/09/03 TA Workshop - 新生课程助教分享会
++ [预告推送](https://mp.weixin.qq.com/s/moCM5TF9bBKUuGR72WqLtw)
++ [总结推送](https://mp.weixin.qq.com/s/VeEmXP2RQwova7-8IeU6wA)
++ [资料存档](https://jbox.sjtu.edu.cn/v/link/view/178b6c61f07f476fa243a5c4366562a1)
+
+---
+
+#### 2021/07/30 研究生申请workshop for DDers
++ [预告推送](https://mp.weixin.qq.com/s/bcb7o2bMW-STLpsEDU9YEQ)
++ [总结推送](https://mp.weixin.qq.com/s/aTdsuWQ1iiyGOpVqXkGC2g)
++ [资料存档](https://jbox.sjtu.edu.cn/v/link/view/4b97f1bd04c34837b062068f1ddc510d)
+
+---
+
+#### 2021/07/14 GDP经验分享会
++ [预告推送](https://mp.weixin.qq.com/s/QByQQ0arPdrSg_M1dtMUJQ)
++ [总结推送](https://mp.weixin.qq.com/s/faoxRe_Ah0pXH9SMjFnHlA)
+
+---
+
+#### 2021/05/23 AC x JI Belief | UMer现身说法！
++ [预告推送](https://mp.weixin.qq.com/s/HuRGFWVTz0btJJhVXsHBKQ)
++ [总结推送](https://mp.weixin.qq.com/s/vTWOLSvtygIMFG6EYIgmWg)
++ [资料存档](https://jbox.sjtu.edu.cn/l/UFFRp6)
+
+---
+
+#### 2021/05/21 Butterfly x AC | DD申请workshop
++ [预告推送](https://mp.weixin.qq.com/s/Ssuy-m_SHZIqkjh_pQhscQ)
++ [总结推送](https://mp.weixin.qq.com/s/nxcezmQIJetCsOjFil5v-A)
++ [资料存档](https://jbox.sjtu.edu.cn/l/aFK3KK) 提取码：ddwksp
+
+---
+
+#### 2021/05/12 保研经验分享workshop
++ [预告推送](https://mp.weixin.qq.com/s/OZdB50rNyGQ0INtvrwh0HA)
++ [总结推送](https://mp.weixin.qq.com/s/8h_XITXd81xPF7Pzdu75wA)
+
+---
+
+#### 2021/05/12 研究生申请&生涯发展经验分享会 | For ECEer/MEer
++ [预告推送](https://mp.weixin.qq.com/s/0WZpN95MeusDOuWkJegOMw)
++ [总结推送](https://mp.weixin.qq.com/s/0V9AvJYGNgn9IIcutLXzUA)
++ [资料存档](https://jbox.sjtu.edu.cn/v/link/view/eb7d59551ff04f0881bbbc8bf90ea376) 提取码：nmns
+
+---
+
+#### 2021/05/08 TA Workshop-夏季大一必修课程助教分享会
++ [推送链接](https://mp.weixin.qq.com/s/aNIfIcWCRIS777YxA4ZUeQ)
++ [资料存档](https://jbox.sjtu.edu.cn/l/QF3Fx9)
 
 ---
 
@@ -33,7 +85,7 @@ Archives for experience-sharing workshops held by Advising Center.
 
 ---
 
-#### 2020/05/24 GDP项目分享会
+#### 2020/05/24 GDP项目分享会 (WING x AC)
 
 + [推送链接](https://mp.weixin.qq.com/s/6INeOqYT0_3U3UZSGW1f0w)
 + [资料存档](https://jbox.sjtu.edu.cn/l/DuUpGg)
@@ -70,4 +122,4 @@ Archives for experience-sharing workshops held by Advising Center.
 
 
 
-Update on 2020/09/18 by [@PeterQiu0516](https://github.com/PeterQiu0516)
+Update on 2021/09/12 by [@yukinoshiita](https://github.com/yukinoshiita)
