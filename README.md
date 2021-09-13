@@ -18,6 +18,11 @@ Archives for experience-sharing workshops held by Advising Center.
 
 ---
 
+#### 2021/07/16 AC x SSTIA | Debug Workshop
++ [预告推送](https://mp.weixin.qq.com/s/Lkfdw3389bRGCEElo_u_ZA)
+
+---
+
 #### 2021/07/14 GDP经验分享会
 + [预告推送](https://mp.weixin.qq.com/s/QByQQ0arPdrSg_M1dtMUJQ)
 + [总结推送](https://mp.weixin.qq.com/s/faoxRe_Ah0pXH9SMjFnHlA)
