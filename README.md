@@ -4,7 +4,7 @@ Archives for experience-sharing workshops held by Advising Center.
 
 ---
 
-#### 2021/11/03 实习workshop
+#### 2021/11/03 实习workshop..
 + [预告推送](https://mp.weixin.qq.com/s/SgsjtISYauK0okR3mSXhVg)
 + [总结推送](https://mp.weixin.qq.com/s/eCRPQWMrttgbAC-rjRw3AA)
 + [资料存档](https://jbox.sjtu.edu.cn/l/h1XnaP)
