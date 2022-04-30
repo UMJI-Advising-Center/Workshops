@@ -102,3 +102,7 @@ Archives for experience-sharing workshops held by [University of Michigan-Shangh
 + [推送链接](https://mp.weixin.qq.com/s/slvn8bgOTDaTEu_UnfSWpQ)
 + [资料存档](https://jbox.sjtu.edu.cn/l/Z0iv98)
 
+---
+
+### More...
+[Workshops before 2019](https://github.com/gunnerwang/UMJI-Career-and-Learning-Advising-center/tree/master/Workshops)
