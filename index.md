@@ -5,7 +5,17 @@ Archives for experience-sharing workshops held by [University of Michigan-Shangh
 **Reminder: to access jbox link, please turn on SJTU VPN.**
 
 ---
-### 2022/05/21 <br>DD研究生申请经验分享会 - CS专场 | *DD-Graduate Workshop (CS)* 
+### 2022/06/26 <br>非DD研究生申请经验分享会 | *non-DD Graduate Workshop* 
++ [预告推送](https://mp.weixin.qq.com/s/iGsSKgiw97ObmpysXV02lQ)
++ 总结推送
++ [资料存档](https://jbox.sjtu.edu.cn/l/E1QXTn)
+
+### 2022/05/29 <br>DD研究生申请经验分享会 - CE/EE/IOE专场 | *DD Graduate Workshop (CE/EE/IOE)* 
++ [预告推送](https://mp.weixin.qq.com/s/P1Z9oI8JgcOrsOUn8DxBvg)
++ [总结推送](https://mp.weixin.qq.com/s/GPB6sUEu6nTZO_NGcfEGVA)
++ [资料存档](https://jbox.sjtu.edu.cn/l/61SGIX)
+
+### 2022/05/21 <br>DD研究生申请经验分享会 - CS专场 | *DD Graduate Workshop (CS)* 
 + [预告推送](https://mp.weixin.qq.com/s/BRu1fpvKInyiGgfXNhF-pA)
 + 总结推送
 + [资料存档](https://jbox.sjtu.edu.cn/l/q10G4u)
