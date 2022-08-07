@@ -5,6 +5,12 @@ Archives for experience-sharing workshops held by [University of Michigan-Shangh
 **Reminder: to access jbox link, please turn on SJTU VPN.**
 
 ---
+### 2022/07/09 <br>GDP申请经验分享会 | *GDP Workshop* 
++ [预告推送](https://mp.weixin.qq.com/s/0IJQxa_z3JJQySviH70e8w)
++ 总结推送
++ [资料存档](https://jbox.sjtu.edu.cn/l/31Pfsk)
+
+
 ### 2022/06/26 <br>非DD研究生申请经验分享会 | *non-DD Graduate Workshop* 
 + [预告推送](https://mp.weixin.qq.com/s/iGsSKgiw97ObmpysXV02lQ)
 + 总结推送
