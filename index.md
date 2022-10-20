@@ -5,6 +5,12 @@ Archives for experience-sharing workshops held by [University of Michigan-Shangh
 **Reminder: to access jbox link, please turn on SJTU VPN.**
 
 ---
+### 2022/10/15 <br>文书强化和项目选择经验分享会 | *AC x UMJI Alumni Association x IPO | For Senior Workshop* 
++ [预告推送](https://mp.weixin.qq.com/s/5_ETcWfLJ77QT6PUThtTLg)
++ 总结推送
++ [资料存档](https://jbox.sjtu.edu.cn/l/D1CQIc) 提取码：bkia
+
+
 ### 2022/07/09 <br>GDP申请经验分享会 | *GDP Workshop* 
 + [预告推送](https://mp.weixin.qq.com/s/0IJQxa_z3JJQySviH70e8w)
 + 总结推送
