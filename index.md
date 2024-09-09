@@ -5,6 +5,10 @@ Archives for experience-sharing workshops held by [University of Michigan-Shangh
 **Reminder: to access jbox link, please turn on SJTU VPN.**
 
 ---
+### 2024/09/01 <br>新生选课分享会 | *Freshmen Course Selection Workshop* 
++ [预告推送](https://mp.weixin.qq.com/s/e8lL4Bsd2jWS-THKL3epOg)
++ [资料存档](https://jbox.sjtu.edu.cn/l/O1gXzw)
+
 ### 2024/07/21 <br>非DD-研究生申请分享会 | *Non-DD, Graduate Programs Application Workshop* 
 + [预告推送](https://mp.weixin.qq.com/s/PsOvtXp0iilVMn8vmNw6uA)
 + [资料存档](https://jbox.sjtu.edu.cn/l/W1kRRj)
