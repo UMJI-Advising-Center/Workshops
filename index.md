@@ -11,7 +11,7 @@ Archives for experience-sharing workshops held by [University of Michigan-Shangh
 
 ### 2024/07/21 <br>非DD-研究生申请分享会 | *Non-DD, Graduate Programs Application Workshop* 
 + [预告推送](https://mp.weixin.qq.com/s/PsOvtXp0iilVMn8vmNw6uA)
-+ [资料存档](https://jbox.sjtu.edu.cn/l/W1kRRj)
++ [资料存档](https://jbox.sjtu.edu.cn/l/e1VZTf)
 
 ### 2024/07/14 <br>DD-研究生申请分享会 | *DD, Graduate Programs Application Workshop* 
 + [预告推送](https://mp.weixin.qq.com/s/u6O96aUHQHgtrdKi_DiiMA)
