@@ -7,7 +7,7 @@ Archives for experience-sharing workshops held by [University of Michigan-Shangh
 ---
 ### 2025/05/04 <br>夏季课程学习分享会 | *SU Course Learning Guidance Workshop* 
 + [预告推送](https://mp.weixin.qq.com/s/qvbRlXyvxfYDD1PFkSH2tg)
-+ [资料存档](https://sjtu.feishu.cn/minutes/obcn99k5v1tnt88t596668oc?from=from_copylink)
++ [资料存档](https://pan.sjtu.edu.cn/web/share/25485c6fce2595ac2dc3e2dbeaa94912)
 + [回顾推送]()
   
 ### 2024/10/12 <br>GDP申请经验分享会 | *GDP Application Workshop* 
