@@ -8,36 +8,36 @@ Archives for experience-sharing workshops held by [University of Michigan-Shangh
 ### 2025/05/04 <br>夏季课程学习分享会 | *SU Course Learning Guidance Workshop* 
 + [预告推送](https://mp.weixin.qq.com/s/qvbRlXyvxfYDD1PFkSH2tg)
 + [资料存档](https://pan.sjtu.edu.cn/web/share/25485c6fce2595ac2dc3e2dbeaa94912)
-+ [回顾推送]()
++ [回顾推送](https://mp.weixin.qq.com/s/zk3lnmxwcfiaHNfwelZEnA)
   
 ### 2024/10/12 <br>GDP申请经验分享会 | *GDP Application Workshop* 
 + [预告推送](https://mp.weixin.qq.com/s/0nI-EfftQFL-H3QI1cHRaQ)
-+ [资料存档](https://jbox.sjtu.edu.cn/l/v1koZE)
++ [资料存档](https://pan.sjtu.edu.cn/web/share/25b2fe093d617785dff2071c531ee9b0)
   
 ### 2024/09/28 <br>DD申请经验分享会 | *DD Application workshop* 
 + [预告推送](https://mp.weixin.qq.com/s/XCNSzcogOkeJZRzOBPjxzg)
-+ [资料存档](https://jbox.sjtu.edu.cn/l/h1Dg9O)
++ [资料存档](https://pan.sjtu.edu.cn/web/share/84abc7b6bb5c878e5b69b5d889f448d6)
 
 ### 2024/09/01 <br>新生选课分享会 | *Freshmen Course Selection Workshop* 
 + [预告推送](https://mp.weixin.qq.com/s/e8lL4Bsd2jWS-THKL3epOg)
-+ [资料存档](https://jbox.sjtu.edu.cn/l/O1gXzw)
++ [资料存档](https://pan.sjtu.edu.cn/web/share/d066c38174b4f4ea881b3541bbe92a8e)
 
 ### 2024/07/21 <br>非DD-研究生申请分享会 | *Non-DD, Graduate Programs Application Workshop* 
 + [预告推送](https://mp.weixin.qq.com/s/PsOvtXp0iilVMn8vmNw6uA)
-+ [资料存档](https://jbox.sjtu.edu.cn/l/e1VZTf)
++ [资料存档](https://pan.sjtu.edu.cn/web/share/d4fc9da83cbaf1a8d7b21ce149f7e3f7)
 
 ### 2024/07/14 <br>DD-研究生申请分享会 | *DD, Graduate Programs Application Workshop* 
 + [预告推送](https://mp.weixin.qq.com/s/u6O96aUHQHgtrdKi_DiiMA)
-+ [资料存档](https://jbox.sjtu.edu.cn/l/61ifPA)
++ [资料存档](https://pan.sjtu.edu.cn/web/share/55d558b43c521c98d1c21e91cddb3a5b)
 
 ### 2024/06/13 <br>科研经验分享会| *Research Experience Sharing Workshop* 
 + [预告推送](https://mp.weixin.qq.com/s/-9S1HHmpumzE5qXaVsRjsw)
-+ [资料存档]
++ [资料存档](https://pan.sjtu.edu.cn/web/share/5057b6f94709fd45754dae9c5a9628c5)
 
 ### 2023/09/03 <br>秋季学期新生课程助教分享会 | *TA workshop 2023FA* 
 + 预告推送
 + [总结推送](https://mp.weixin.qq.com/s/PAUvNfVKFbTjhtzCD9ItbA)
-+ [资料存档](https://jbox.sjtu.edu.cn/l/r1W8bI)
++ [资料存档](https://pan.sjtu.edu.cn/web/share/31741130508e2315a65329794ef957f3)
 
 ### 2023/07/11 <br>硕博申请经验分享会 | *Graduate Programs (Master & Ph.D.) Application Workshop* 
 + [预告推送](https://mp.weixin.qq.com/s/aNhdH8q6HwdUGVxXZY3z2A) 
