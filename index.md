@@ -35,7 +35,7 @@ Archives for experience-sharing workshops held by [University of Michigan-Shangh
 + [资料存档](https://pan.sjtu.edu.cn/web/share/5057b6f94709fd45754dae9c5a9628c5)
 
 ### 2023/09/03 <br>秋季学期新生课程助教分享会 | *TA workshop 2023FA* 
-+ 预告推送
++ [预告推送](https://mp.weixin.qq.com/s/e8lL4Bsd2jWS-THKL3epOg)
 + [总结推送](https://mp.weixin.qq.com/s/PAUvNfVKFbTjhtzCD9ItbA)
 + [资料存档](https://pan.sjtu.edu.cn/web/share/31741130508e2315a65329794ef957f3)
 
