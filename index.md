@@ -5,6 +5,11 @@ Archives for experience-sharing workshops held by [University of Michigan-Shangh
 **Reminder: to access jbox link, please turn on SJTU VPN.**
 
 ---
+### 2025/06/07 <br>科研分享会 | *Research Workshop* 
++ [预告推送](https://mp.weixin.qq.com/s/INkE5Egg6sqPaqSMRtVyTA)
++ [资料存档](https://pan.sjtu.edu.cn/web/share/bc4f3ef81e0bae37b46d5e8fab879ebd)
++ [回顾推送]()
+  
 ### 2025/05/04 <br>夏季课程学习分享会 | *SU Course Learning Guidance Workshop* 
 + [预告推送](https://mp.weixin.qq.com/s/qvbRlXyvxfYDD1PFkSH2tg)
 + [资料存档](https://pan.sjtu.edu.cn/web/share/25485c6fce2595ac2dc3e2dbeaa94912)
