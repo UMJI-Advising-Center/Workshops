@@ -8,6 +8,7 @@ Archives for experience-sharing workshops held by [University of Michigan-Shangh
 ### 2025/9/21 <br>DD申请经验分享会 | *DD Application workshop* 
 + [预告推送](https://mp.weixin.qq.com/s/XtYKaYyXh68ppIajzjDcVw)
 + [资料存档](https://pan.sjtu.edu.cn/web/share/f303fc0b56c3e4eae74cf52fe156ac99)
++ [共享文档](https://sjtu.feishu.cn/wiki/It5vw2k2yiaRgZkT98Ucu7LBnXe?from=from_copylink)
 
 ### 2025/9/1 <br>新生选课分享会 | *Freshman Course Selection Workshop*
 + [预告推送](https://mp.weixin.qq.com/s/zexywRLzaWBmUTFlM0BWmw)
