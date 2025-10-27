@@ -8,7 +8,7 @@ Archives for experience-sharing workshops held by [Shanghai Jiao Tong University
 ### 2025/10/26 <br>GDP申请分享会 | *GDP Application Workshop*
 + [预告推送](https://mp.weixin.qq.com/s/Hhws0spnD_WqQ5KCI_75ew)
 + [分享会回放](https://pan.sjtu.edu.cn/web/share/5938ba3a9c2a143f71b6071e96b22816)
-
++ [资料存档](https://sjtu.feishu.cn/wiki/DeDJwZ37EinDe4k7ypRcUotqnYd?from=from_copylink)
 
 ### 2025/9/21 <br>DD申请经验分享会 | *DD Application Workshop* 
 + [预告推送](https://mp.weixin.qq.com/s/XtYKaYyXh68ppIajzjDcVw)
